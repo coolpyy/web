@@ -1,0 +1,23 @@
+p {
+  color: black;/*网页字体颜色*/
+}
+html {/*改变页面颜色*/
+  background-color: white;
+}
+body {
+  width: 1213px;
+  margin: 0 auto;
+  background-color: #EF9A9A;
+  padding: 0 20px 20px 20px;
+  border: 5px solid #FFCDD2;
+}
+h1 {/*为页面主标题定位和添加样式*/
+  margin: 0;
+  padding: 20px 0;    
+  color: #1565C0;
+  text-shadow: 3px 3px 1px black;
+}
+img {/*居中图像*/
+  display: block;
+  margin: 0 auto;
+}
